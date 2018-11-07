@@ -15,6 +15,17 @@ The prototyped home page and other direct link used by participants in the study
 These links help you skip directly to particular prototyped recall pages: 
 * https://gc-proto.github.io/recalls-safety/scenarioH/template_links.html
 
+Other RSA related links:
+
+Current RSA website repo
+* https://github.com/hc-sc/RSAMS/issues
+
+Current RSA mobile app repo
+* https://github.com/hc-sc/recalls-mobile-app
+
+RSA Alexa proof-of-concept repo
+* https://github.com/canada-ca/alexapoc-healthcanada-recalls/tree/11b5556c803411643bf2ba61f3e935da39f001de
+
 See Australia's Recalls site for a model of a search-filtering system with simplified templates for the recalls. We refined this model to better support search and filtering on a mobile phone:
 * https://www.productsafety.gov.au/recalls/browse-all-recalls
 
